@@ -45,6 +45,7 @@ Este widget vai permitir que o usuário envie uma screenchot diretamente ao corp
   - [Nodemailer](https://nodemailer.com/)
   - [Jest](https://jestjs.io/)
   - [SWC](https://swc.rs/)
+  - [Cors](https://www.npmjs.com/package/cors)
 
 ## ✔️ Autores
 
