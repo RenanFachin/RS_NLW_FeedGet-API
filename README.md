@@ -12,7 +12,7 @@ Este widget vai permitir que o usuário envie uma screenchot diretamente ao corp
 
 ## Funcionalidades
 - [x] Um único endpoint para receber os dados oriundos do formulário do front-end
-- [x] Envio de email para o adm da aplicação para quando houver um novo feedback
+- [x] Envio de email para o adm da aplicação para quando houver um novo feedback, utilizando a biblitoeca nodemailer para isto
 
 ## Diagrama ERD
 <div align="center">
@@ -42,6 +42,7 @@ Este widget vai permitir que o usuário envie uma screenchot diretamente ao corp
   - [Express](https://expressjs.com/)
   - [TypeScript](https://www.typescriptlang.org/)
   - [Prisma](https://www.prisma.io/)
+  - [Nodemailer](https://nodemailer.com/)
 
 ## ✔️ Autores
 
