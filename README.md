@@ -43,6 +43,8 @@ Este widget vai permitir que o usuário envie uma screenchot diretamente ao corp
   - [TypeScript](https://www.typescriptlang.org/)
   - [Prisma](https://www.prisma.io/)
   - [Nodemailer](https://nodemailer.com/)
+  - [Jest](https://jestjs.io/)
+  - [SWC](https://swc.rs/)
 
 ## ✔️ Autores
 
