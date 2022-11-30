@@ -2,6 +2,10 @@ generator client {
   provider = "prisma-client-js"
 }
 
+generator erd {
+  provider = "prisma-erd-generator"
+}
+
 datasource db {
   provider = "sqlite"
   url      = env("DATABASE_URL")
@@ -9,7 +13,7 @@ datasource db {
 
 model Feedback {
   id         String  @id @default(uuid())
-  
+
   type       String
   comment    String
   screenshot String?

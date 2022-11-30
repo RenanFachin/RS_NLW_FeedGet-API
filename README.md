@@ -14,6 +14,11 @@ Este widget vai permitir que o usuário envie uma screenchot diretamente ao corp
 - [x] Um único endpoint para receber os dados oriundos do formulário do front-end
 - [x] Envio de email para o adm da aplicação para quando houver um novo feedback
 
+## Diagrama ERD
+<div align="center">
+    <img width="30%" alt="Diagrama ERD" src="./prisma/ERD.svg">
+</div>
+
 ## Instalação
 ```bash
 # Faça o clone do repositório
